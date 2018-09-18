@@ -2,7 +2,7 @@
 
 A java version of [json-tutorial](https://github.com/miloyip/json-tutorial).
 
-## File list
+## File Directory
 
 ```
 Parser.java                // json解析器
