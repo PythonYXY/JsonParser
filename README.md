@@ -16,6 +16,6 @@ Generator.java             // json生成器
 
 ## TODO
 
-- [] Code refactoring
-- [] More test cases
+- [ ] Code refactoring
+- [ ] More test cases
 
