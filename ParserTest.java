@@ -404,7 +404,6 @@ public class ParserTest {
     }
 
     public static void main(String[] array) {
-        /*
         testParseFalse();
         testParseTrue();
         testParseNull();
@@ -422,7 +421,6 @@ public class ParserTest {
         testParseMisskey();
         testParseMissColon();
         testParseMissCommaOrCurlyBracket();
-        */
 
         testStringifyValue();
 
