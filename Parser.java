@@ -88,6 +88,7 @@ public class Parser {
         v.setType(NUMBER);
         return PARSE_OK;
     }
+    
     public ParserResult parseStringRaw(StringBuilder sb) {
         assert json.peek() == '\"';
         json.pop();
