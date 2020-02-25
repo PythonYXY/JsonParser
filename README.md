@@ -13,9 +13,3 @@ ParserTest.java            // 单元测试类
 TestException.java         // 测试类抛出的异常
 Generator.java             // json生成器
 ```
-
-## TODO
-
-- [ ] Code refactoring
-- [ ] More test cases
-
